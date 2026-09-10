@@ -1,0 +1,4 @@
+streamlit
+num2words
+SpeechRecognition
+moviepy
